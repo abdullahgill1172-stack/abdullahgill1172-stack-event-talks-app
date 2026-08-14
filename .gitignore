@@ -1,0 +1,22 @@
+# Python virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm / IDEs
+.idea/
+.vscode/
+
+# Environment and log files
+*.log
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
